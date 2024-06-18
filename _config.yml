@@ -1,2 +1,6 @@
 title: Abigail Shockey
 theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
